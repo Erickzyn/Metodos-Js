@@ -54,12 +54,15 @@
 
 // console.log(indexOf); //output: 0
 
-// ***
+// *********************************************
+
 
 // indexOf(elemento De Pesquisa, ponto Inicial)
+
 // Ponto incial, é o índice para iniciar a procura desse elemento dentro do Array
 
 // const fruits = ["Aplle", "Orange", "Banana", "pear"];
+
 // let indexOfSearch = fruits.indexOf("Orange", 3);
 
 // console.log(indexOfSearch); //output: -1
